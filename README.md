@@ -131,7 +131,7 @@
 ### `> ctf --telemetry`
 
 <p align="center">
-  <img src="assets/ctf-telemetry.svg" width="100%" alt="CTF Telemetry Animated Chart" />
+  <img src="[assets/ctf-telemetry.svg](https://raw.githubusercontent.com/3LB4R/3LB4R/main/assets/ctf-telemetry.svg)" width="100%" alt="CTF Telemetry Animated Chart" />
 </p>
 
 ---
