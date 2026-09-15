@@ -27,31 +27,23 @@
 
 ## `> whoami`
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    3LB4R // CLASSIFIED                   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  ROLE        : Cybersecurity Practitioner                │
-│                CTF Player                                │
-│                                                          │
-│  PRIMARY     : Reverse Engineering                       │
-│                Binary Exploitation / PWN                 │
-│                                                          │
-│  SECONDARY   : Digital Forensics                         │
-│                Cryptography                              │
-│                                                          │
-│  ENVIRONMENT : Linux / Kali Linux / Windows              │
-│                                                          │
-│  ARSENAL     : Ghidra / GDB / Pwntools                   │
-│                Nmap / Burp Suite / Wireshark             │
-│                                                          │
-│  STATUS      : Investigating the unknown...              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<details open>
+<summary><b>▶ klik untuk buka / tutup profil</b></summary>
+
+<br>
+
+| FIELD | VALUE |
+|---|---|
+| ![](https://img.shields.io/badge/ROLE-050505?style=flat-square&logoColor=FF003C) | Cybersecurity Practitioner · CTF Player |
+| ![](https://img.shields.io/badge/PRIMARY-050505?style=flat-square) | Reverse Engineering · Binary Exploitation / PWN |
+| ![](https://img.shields.io/badge/SECONDARY-050505?style=flat-square) | Digital Forensics · Cryptography |
+| ![](https://img.shields.io/badge/ENV-050505?style=flat-square) | Linux · Kali Linux · Windows |
+| ![](https://img.shields.io/badge/ARSENAL-050505?style=flat-square) | Ghidra · GDB · Pwntools · Nmap · Burp Suite · Wireshark |
+| ![](https://img.shields.io/badge/STATUS-050505?style=flat-square) | Investigating the unknown... |
 
 > **`"The quieter you become, the harder you hit."`**
+
+</details>
 
 ---
 
@@ -63,38 +55,42 @@
   <img src="https://img.shields.io/badge/DIGITAL_FORENSICS-FF003C?style=for-the-badge&labelColor=050505" />
 </p>
 
-```text
-                 ATTACK VECTORS & SPECIALIZATIONS
+<details>
+<summary><b>▶ [01] Binary Exploitation / PWN</b></summary>
 
-        ┌─────────────────────────────────────────────┐
-        │                                             │
-        │  [01] BINARY EXPLOITATION / PWN             │
-        │       ├─ Stack / Heap                       │
-        │       ├─ Buffer Overflow                    │
-        │       ├─ ROP / SROP                         │
-        │       ├─ Shellcode                          │
-        │       └─ Binary Mitigations                 │
-        │                                             │
-        │  [02] REVERSE ENGINEERING                   │
-        │       ├─ Static Analysis                    │
-        │       ├─ Dynamic Analysis                   │
-        │       ├─ Ghidra / GDB                       │
-        │       ├─ ELF Analysis                       │
-        │       └─ De-obfuscation                     │
-        │                                             │
-        │  [03] DIGITAL FORENSICS                     │
-        │       ├─ Filesystem Analysis                │
-        │       ├─ Memory Analysis                    │
-        │       └─ Digital Artifacts                  │
-        │                                             │
-        │  [04] CTF                                   │
-        │       ├─ PWN                                │
-        │       ├─ Reverse                            │
-        │       ├─ Forensics                          │
-        │       └─ Crypto / Web                       │
-        │                                             │
-        └─────────────────────────────────────────────┘
-```
+- Stack / Heap
+- Buffer Overflow
+- ROP / SROP
+- Shellcode
+- Binary Mitigations
+</details>
+
+<details>
+<summary><b>▶ [02] Reverse Engineering</b></summary>
+
+- Static Analysis
+- Dynamic Analysis
+- Ghidra / GDB
+- ELF Analysis
+- De-obfuscation
+</details>
+
+<details>
+<summary><b>▶ [03] Digital Forensics</b></summary>
+
+- Filesystem Analysis
+- Memory Analysis
+- Digital Artifacts
+</details>
+
+<details>
+<summary><b>▶ [04] CTF</b></summary>
+
+- PWN
+- Reverse
+- Forensics
+- Crypto / Web
+</details>
 
 ---
 
@@ -134,20 +130,9 @@
 
 ### `> ctf --telemetry`
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 CTF OPERATIONS                       ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  Reverse Engineering       [██████████████████] 95%  ║
-║  Binary Exploitation       [████████████████  ] 85%  ║
-║  Digital Forensics         [██████████████    ] 75%  ║
-║  Cryptography              [████████████      ] 65%  ║
-║  Web Security              [██████████        ] 55%  ║
-║  OSINT                     [████████          ] 45%  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="assets/ctf-telemetry.svg" width="100%" alt="CTF Telemetry Animated Chart" />
+</p>
 
 ---
 
@@ -186,59 +171,44 @@
 
 ### `> research --active`
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    ACTIVE RESEARCH                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [01] Reverse Engineering                                │
-│       ├── Binary Internals                               │
-│       ├── Static / Dynamic Analysis                      │
-│       ├── Ghidra / GDB                                   │
-│       └── Malware & Binary Analysis                      │
-│                                                          │
-│  [02] Binary Exploitation                                │
-│       ├── Memory Corruption                              │
-│       ├── Stack / Heap                                   │
-│       ├── ROP / Mitigation Bypasses                      │
-│       └── Linux Binary Security                          │
-│                                                          │
-│  [03] Digital Forensics                                  │
-│       ├── Filesystem Analysis                            │
-│       ├── Memory Analysis                                │
-│       └── Digital Artifacts                              │
-│                                                          │
-│  [04] CTF Platforms                                      │
-│       ├── RedLimit                                       │
-│       ├── PicoCTF                                        │
-│       ├── TryHackMe                                      │
-│       └── Hack The Box                                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<details>
+<summary><b>▶ klik untuk buka daftar riset aktif</b></summary>
+
+**[01] Reverse Engineering**
+- Binary Internals
+- Static / Dynamic Analysis
+- Ghidra / GDB
+- Malware & Binary Analysis
+
+**[02] Binary Exploitation**
+- Memory Corruption
+- Stack / Heap
+- ROP / Mitigation Bypasses
+- Linux Binary Security
+
+**[03] Digital Forensics**
+- Filesystem Analysis
+- Memory Analysis
+- Digital Artifacts
+
+**[04] CTF Platforms**
+- RedLimit
+- PicoCTF
+- TryHackMe
+- Hack The Box
+
+</details>
 
 ---
 
 ### `> philosophy --execute`
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  Don't memorize the exploit.                             │
-│  Understand why the memory state allows it.              │
-│                                                          │
-│  Don't copy the payload.                                 │
-│  Reconstruct the logic and weaponize the primitive.      │
-│                                                          │
-│  Don't just capture the flag.                            │
-│  Understand the system behind it.                        │
-│                                                          │
-│  FIND THE PRIMITIVE.                                     │
-│  UNDERSTAND THE MEMORY.                                  │
-│  CONTROL THE EXECUTION FLOW.                             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=FF003C&center=true&vCenter=true&width=820&height=170&lines=Don't+memorize+the+exploit.;Understand+why+the+memory+state+allows+it.;Don't+copy+the+payload.;Reconstruct+the+logic+%26+weaponize+the+primitive.;Don't+just+capture+the+flag.;Understand+the+system+behind+it.;FIND+THE+PRIMITIVE.+UNDERSTAND+THE+MEMORY.;CONTROL+THE+EXECUTION+FLOW."
+    alt="Philosophy Typing Animation"
+  />
+</p>
 
 ---
 
