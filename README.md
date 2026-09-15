@@ -2,16 +2,13 @@
 <!--                  3LB4R // RED TEAM OPS                    -->
 <!-- ========================================================= -->
 
-<!-- ===================== ANIMATED HEADER =================== -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:180008,75:8B0015,100:FF003C&height=230&section=header&text=3LB4R&fontSize=78&fontColor=FF003C&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20%2F%2F%20CTF%20PLAYER&descAlignY=58&descSize=17&animation=twinkling"
     width="100%"
+    alt="3LB4R"
   />
 </p>
-
-<!-- ===================== TYPING TERMINAL ==================== -->
 
 <p align="center">
   <img
@@ -20,30 +17,13 @@
   />
 </p>
 
-<!-- ===================== STATUS ============================= -->
-
 <p align="center">
-
-  <img
-    src="https://img.shields.io/badge/STATUS-ONLINE-FF003C?style=for-the-badge&labelColor=050505"
-    alt="Status"
-  />
-
-  <img
-    src="https://img.shields.io/badge/MODE-OFFENSIVE-FF003C?style=for-the-badge&labelColor=050505"
-    alt="Mode"
-  />
-
-  <img
-    src="https://img.shields.io/badge/CTF-ACTIVE-FF003C?style=for-the-badge&labelColor=050505"
-    alt="CTF"
-  />
-
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF003C?style=for-the-badge&labelColor=050505" />
+  <img src="https://img.shields.io/badge/MODE-OFFENSIVE-FF003C?style=for-the-badge&labelColor=050505" />
+  <img src="https://img.shields.io/badge/CTF-ACTIVE-FF003C?style=for-the-badge&labelColor=050505" />
 </p>
 
-<br>
-
-<!-- ========================================================= -->
+---
 
 ## `> whoami`
 
@@ -85,14 +65,14 @@ The quieter you become, the more you are able to hear.
         │       ├─ Shellcode                          │
         │       └─ Binary Mitigations                  │
         │                                             │
-        │  [02] REVERSE ENGINEERING                  │
+        │  [02] REVERSE ENGINEERING                   │
         │       ├─ Static Analysis                    │
         │       ├─ Dynamic Analysis                   │
         │       ├─ Ghidra / GDB                      │
         │       ├─ ELF Analysis                       │
         │       └─ De-obfuscation                     │
         │                                             │
-        │  [03] DIGITAL FORENSICS                    │
+        │  [03] DIGITAL FORENSICS                     │
         │       ├─ Filesystem Analysis                │
         │       ├─ Memory Analysis                    │
         │       └─ Digital Artifacts                  │
@@ -126,7 +106,6 @@ The quieter you become, the more you are able to hear.
 ║  OSINT                     [████████          ]      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-<p align="center"> <img src="https://img.shields.io/badge/RECON-READY-FF003C?style=for-the-badge&labelColor=050505" /> <img src="https://img.shields.io/badge/ANALYSIS-ACTIVE-FF003C?style=for-the-badge&labelColor=050505" /> <img src="https://img.shields.io/badge/EXPLOITATION-LEARNING-FF003C?style=for-the-badge&labelColor=050505" /> </p>
 > github --telemetry
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=3LB4R&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity" /> </p> <p align="center">
 
@@ -182,4 +161,4 @@ The quieter you become, the more you are able to hear.
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 > connect --secure
-<p align="center"> <a href="https://github.com/3LB4R"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF003C" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF003C" /> </a> <a href="https://www.instagram.com/"> <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF003C" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=3LB4R&label=PROFILE%20VIEWS&color=FF003C&style=for-the-badge&labelColor=050505" alt="Profile Views" /> </p> <!-- ======================= FOOTER ========================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,45:8B0015,75:180008,100:050505&height=130&section=footer&animation=twinkling" width="100%" /> </p> <p align="center"> <code>CONNECTION TERMINATED // 3LB4R</code> </p> ```
+<p align="center"> <a href="https://github.com/3LB4R"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF003C" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF003C" /> </a> <a href="https://www.instagram.com/"> <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF003C" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=3LB4R&label=PROFILE%20VIEWS&color=FF003C&style=for-the-badge&labelColor=050505" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,45:8B0015,75:180008,100:050505&height=130&section=footer&animation=twinkling" width="100%" alt="Animated Footer" /> </p> <p align="center"> <code>CONNECTION TERMINATED // 3LB4R</code> </p> ```
