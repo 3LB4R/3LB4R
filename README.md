@@ -148,6 +148,14 @@
 
 <p align="center">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=3LB4R&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=3LB4R&show_icons=true&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&hide_border=true&include_all_commits=true&count_private=true"
     width="48%"
     alt="GitHub Stats"
@@ -156,14 +164,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=3LB4R&layout=compact&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&hide_border=true"
     width="48%"
     alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=3LB4R&theme=dark&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FFFFFF&dates=777777&hide_border=true"
-    width="70%"
-    alt="GitHub Streak"
   />
 </p>
 
