@@ -73,7 +73,7 @@
         │       ├─ Buffer Overflow                    │
         │       ├─ ROP / SROP                         │
         │       ├─ Shellcode                          │
-        │       └─ Binary Mitigations                  │
+        │       └─ Binary Mitigations                 │
         │                                             │
         │  [02] REVERSE ENGINEERING                   │
         │       ├─ Static Analysis                    │
@@ -139,12 +139,12 @@
 ║                 CTF OPERATIONS                       ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  Reverse Engineering       [██████████████████] 95% ║
-║  Binary Exploitation       [████████████████  ] 85% ║
-║  Digital Forensics         [██████████████    ] 75% ║
-║  Cryptography              [████████████      ] 65% ║
-║  Web Security              [██████████        ] 55% ║
-║  OSINT                     [████████          ] 45% ║
+║  Reverse Engineering       [██████████████████] 95%  ║
+║  Binary Exploitation       [████████████████  ] 85%  ║
+║  Digital Forensics         [██████████████    ] 75%  ║
+║  Cryptography              [████████████      ] 65%  ║
+║  Web Security              [██████████        ] 55%  ║
+║  OSINT                     [████████          ] 45%  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -191,28 +191,28 @@
 │                    ACTIVE RESEARCH                       │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  [01] Reverse Engineering                               │
-│       ├── Binary Internals                              │
-│       ├── Static / Dynamic Analysis                     │
-│       ├── Ghidra / GDB                                  │
-│       └── Malware & Binary Analysis                     │
+│  [01] Reverse Engineering                                │
+│       ├── Binary Internals                               │
+│       ├── Static / Dynamic Analysis                      │
+│       ├── Ghidra / GDB                                   │
+│       └── Malware & Binary Analysis                      │
 │                                                          │
-│  [02] Binary Exploitation                               │
-│       ├── Memory Corruption                             │
-│       ├── Stack / Heap                                  │
-│       ├── ROP / Mitigation Bypasses                     │
-│       └── Linux Binary Security                         │
+│  [02] Binary Exploitation                                │
+│       ├── Memory Corruption                              │
+│       ├── Stack / Heap                                   │
+│       ├── ROP / Mitigation Bypasses                      │
+│       └── Linux Binary Security                          │
 │                                                          │
-│  [03] Digital Forensics                                 │
-│       ├── Filesystem Analysis                           │
-│       ├── Memory Analysis                               │
-│       └── Digital Artifacts                             │
+│  [03] Digital Forensics                                  │
+│       ├── Filesystem Analysis                            │
+│       ├── Memory Analysis                                │
+│       └── Digital Artifacts                              │
 │                                                          │
-│  [04] CTF Platforms                                     │
-│       ├── RedLimit                                      │
-│       ├── PicoCTF                                       │
-│       ├── TryHackMe                                     │
-│       └── Hack The Box                                  │
+│  [04] CTF Platforms                                      │
+│       ├── RedLimit                                       │
+│       ├── PicoCTF                                        │
+│       ├── TryHackMe                                      │
+│       └── Hack The Box                                   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -224,18 +224,18 @@
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│  Don't memorize the exploit.                            │
-│  Understand why the memory state allows it.             │
+│  Don't memorize the exploit.                             │
+│  Understand why the memory state allows it.              │
 │                                                          │
-│  Don't copy the payload.                                │
-│  Reconstruct the logic and weaponize the primitive.     │
+│  Don't copy the payload.                                 │
+│  Reconstruct the logic and weaponize the primitive.      │
 │                                                          │
-│  Don't just capture the flag.                           │
-│  Understand the system behind it.                       │
+│  Don't just capture the flag.                            │
+│  Understand the system behind it.                        │
 │                                                          │
-│  FIND THE PRIMITIVE.                                    │
-│  UNDERSTAND THE MEMORY.                                 │
-│  CONTROL THE EXECUTION FLOW.                            │
+│  FIND THE PRIMITIVE.                                     │
+│  UNDERSTAND THE MEMORY.                                  │
+│  CONTROL THE EXECUTION FLOW.                             │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
