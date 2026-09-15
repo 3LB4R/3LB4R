@@ -49,11 +49,21 @@
 │  STATUS      : Investigating the unknown...              │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
+```
 
-The quieter you become, the more you are able to hear.
+> **`"The quieter you become, the harder you hit."`**
 
-> focus --vector
-<p align="center"> <img src="https://img.shields.io/badge/REVERSE_ENGINEERING-FF003C?style=for-the-badge&labelColor=050505" /> <img src="https://img.shields.io/badge/BINARY_EXPLOITATION-FF003C?style=for-the-badge&labelColor=050505" /> <img src="https://img.shields.io/badge/DIGITAL_FORENSICS-FF003C?style=for-the-badge&labelColor=050505" /> </p>
+---
+
+### `> focus --vector`
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/REVERSE_ENGINEERING-FF003C?style=for-the-badge&labelColor=050505](https://img.shields.io/badge/REVERSE_ENGINEERING-FF003C?style=for-the-badge&labelColor=050505)" />
+  <img src="[https://img.shields.io/badge/BINARY_EXPLOITATION-FF003C?style=for-the-badge&labelColor=050505](https://img.shields.io/badge/BINARY_EXPLOITATION-FF003C?style=for-the-badge&labelColor=050505)" />
+  <img src="[https://img.shields.io/badge/DIGITAL_FORENSICS-FF003C?style=for-the-badge&labelColor=050505](https://img.shields.io/badge/DIGITAL_FORENSICS-FF003C?style=for-the-badge&labelColor=050505)" />
+</p>
+
+```text
                  ATTACK VECTORS & SPECIALIZATIONS
 
         ┌─────────────────────────────────────────────┐
@@ -68,7 +78,7 @@ The quieter you become, the more you are able to hear.
         │  [02] REVERSE ENGINEERING                   │
         │       ├─ Static Analysis                    │
         │       ├─ Dynamic Analysis                   │
-        │       ├─ Ghidra / GDB                      │
+        │       ├─ Ghidra / GDB                       │
         │       ├─ ELF Analysis                       │
         │       └─ De-obfuscation                     │
         │                                             │
@@ -84,37 +94,99 @@ The quieter you become, the more you are able to hear.
         │       └─ Crypto / Web                       │
         │                                             │
         └─────────────────────────────────────────────┘
-> arsenal --list
-01 // Operating Systems
-<p align="left"> <img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=FF003C" /> </p>
-02 // Programming & Scripting
-<p align="left"> <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FF003C" /> <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=FF003C" /> <img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=FF003C" /> </p>
-03 // Reverse Engineering
-<p align="left"> <img src="https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logo=ghidra&logoColor=FF003C" /> <img src="https://img.shields.io/badge/GDB-050505?style=for-the-badge&logo=gnu&logoColor=FF003C" /> <img src="https://img.shields.io/badge/ELF-050505?style=for-the-badge&logo=linux&logoColor=FF003C" /> </p>
-04 // Offensive Security
-<p align="left"> <img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logo=nmap&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=FF003C" /> <img src="https://img.shields.io/badge/Pwntools-050505?style=for-the-badge&logo=python&logoColor=FF003C" /> </p>
-> ctf --telemetry
+```
+
+---
+
+### `> arsenal --list`
+
+**01 // Operating Systems**
+<p align="left">
+  <img src="[https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF003C](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=FF003C](https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=FF003C](https://img.shields.io/badge/Windows-050505?style=for-the-badge&logo=windows&logoColor=FF003C)" />
+</p>
+
+**02 // Programming & Scripting**
+<p align="left">
+  <img src="[https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FF003C](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=FF003C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=FF003C](https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=FF003C](https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=FF003C)" />
+</p>
+
+**03 // Reverse Engineering**
+<p align="left">
+  <img src="[https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logo=ghidra&logoColor=FF003C](https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logo=ghidra&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/GDB-050505?style=for-the-badge&logo=gnu&logoColor=FF003C](https://img.shields.io/badge/GDB-050505?style=for-the-badge&logo=gnu&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/ELF-050505?style=for-the-badge&logo=linux&logoColor=FF003C](https://img.shields.io/badge/ELF-050505?style=for-the-badge&logo=linux&logoColor=FF003C)" />
+</p>
+
+**04 // Offensive Security**
+<p align="left">
+  <img src="[https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logo=nmap&logoColor=FF003C](https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logo=nmap&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF003C](https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=FF003C](https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=FF003C)" />
+  <img src="[https://img.shields.io/badge/Pwntools-050505?style=for-the-badge&logo=python&logoColor=FF003C](https://img.shields.io/badge/Pwntools-050505?style=for-the-badge&logo=python&logoColor=FF003C)" />
+</p>
+
+---
+
+### `> ctf --telemetry`
+
+```text
 ╔══════════════════════════════════════════════════════╗
 ║                 CTF OPERATIONS                       ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  Reverse Engineering       [██████████████████]      ║
-║  Binary Exploitation       [████████████████  ]      ║
-║  Digital Forensics         [██████████████    ]      ║
-║  Cryptography              [████████████      ]      ║
-║  Web Security              [██████████        ]      ║
-║  OSINT                     [████████          ]      ║
+║  Reverse Engineering       [██████████████████] 95% ║
+║  Binary Exploitation       [████████████████  ] 85% ║
+║  Digital Forensics         [██████████████    ] 75% ║
+║  Cryptography              [████████████      ] 65% ║
+║  Web Security              [██████████        ] 55% ║
+║  OSINT                     [████████          ] 45% ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-> github --telemetry
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=3LB4R&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity" /> </p> <p align="center">
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=3LB4R&show_icons=true&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3LB4R&layout=compact&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&hide_border=true" width="48%" alt="Top Languages" />
+### `> github --telemetry`
 
-</p> <p align="center"> <img src="https://streak-stats.demolab.com?user=3LB4R&theme=dark&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FFFFFF&dates=777777&hide_border=true" width="70%" alt="GitHub Streak" /> </p>
-> research --active
+<p align="center">
+  <img 
+    src="[https://github-readme-activity-graph.vercel.app/graph?username=3LB4R&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=3LB4R&bg_color=050505&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true)" 
+    width="100%" 
+    alt="GitHub Activity" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="[https://github-readme-stats.vercel.app/api?username=3LB4R&show_icons=true&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=3LB4R&show_icons=true&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C&hide_border=true&include_all_commits=true&count_private=true)" 
+    width="48%" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=3LB4R&layout=compact&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=3LB4R&layout=compact&theme=dark&bg_color=050505&title_color=FF003C&text_color=FFFFFF&hide_border=true)" 
+    width="48%" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="[https://streak-stats.demolab.com?user=3LB4R&theme=dark&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FFFFFF&dates=777777&hide_border=true](https://streak-stats.demolab.com?user=3LB4R&theme=dark&background=050505&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FFFFFF&dates=777777&hide_border=true)" 
+    width="70%" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+### `> research --active`
+
+```text
 ┌──────────────────────────────────────────────────────────┐
 │                    ACTIVE RESEARCH                       │
 ├──────────────────────────────────────────────────────────┤
@@ -128,7 +200,7 @@ The quieter you become, the more you are able to hear.
 │  [02] Binary Exploitation                               │
 │       ├── Memory Corruption                             │
 │       ├── Stack / Heap                                  │
-│       ├── ROP                                           │
+│       ├── ROP / Mitigation Bypasses                     │
 │       └── Linux Binary Security                         │
 │                                                          │
 │  [03] Digital Forensics                                 │
@@ -136,29 +208,66 @@ The quieter you become, the more you are able to hear.
 │       ├── Memory Analysis                               │
 │       └── Digital Artifacts                             │
 │                                                          │
-│  [04] CTF                                               │
+│  [04] CTF Platforms                                     │
 │       ├── RedLimit                                      │
 │       ├── PicoCTF                                       │
 │       ├── TryHackMe                                     │
 │       └── Hack The Box                                  │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-> philosophy --execute
+```
+
+---
+
+### `> philosophy --execute`
+
+```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
 │  Don't memorize the exploit.                            │
-│  Understand why the exploit works.                      │
+│  Understand why the memory state allows it.             │
 │                                                          │
 │  Don't copy the payload.                                │
-│  Reconstruct the logic.                                 │
+│  Reconstruct the logic and weaponize the primitive.     │
 │                                                          │
 │  Don't just capture the flag.                           │
 │  Understand the system behind it.                       │
 │                                                          │
 │  FIND THE PRIMITIVE.                                    │
 │  UNDERSTAND THE MEMORY.                                 │
-│  CONTROL THE FLOW.                                      │
+│  CONTROL THE EXECUTION FLOW.                            │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-> connect --secure
-<p align="center"> <a href="https://github.com/3LB4R"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF003C" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF003C" /> </a> <a href="https://www.instagram.com/"> <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF003C" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=3LB4R&label=PROFILE%20VIEWS&color=FF003C&style=for-the-badge&labelColor=050505" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,45:8B0015,75:180008,100:050505&height=130&section=footer&animation=twinkling" width="100%" alt="Animated Footer" /> </p> <p align="center"> <code>CONNECTION TERMINATED // 3LB4R</code> </p> ```
+```
+
+---
+
+### `> connect --secure`
+
+<p align="center">
+  <a href="[https://github.com/3LB4R](https://github.com/3LB4R)">
+    <img src="[https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF003C](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FF003C)" />
+  </a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF003C](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF003C)" />
+  </a>
+  <a href="[https://www.instagram.com/](https://www.instagram.com/)">
+    <img src="[https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF003C](https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=FF003C)" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=3LB4R&label=BREACH%20LOGS&color=FF003C&style=for-the-badge&labelColor=050505](https://komarev.com/ghpvc/?username=3LB4R&label=BREACH%20LOGS&color=FF003C&style=for-the-badge&labelColor=050505)" />
+</p>
+
+<!-- Animated Red Team Footer -->
+<p align="center">
+  <img
+    src="[https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:2b0007,100:050505&height=120&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=0:FF003C,50:2b0007,100:050505&height=120&section=footer&animation=twinkling)"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <code>[!] PAYLOAD EXECUTED // CONNECTION TERMINATED // 3LB4R</code>
+</p>
